@@ -1,5 +1,5 @@
 <!-- GitHub Stats (optional) -->
-![Tamil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tamil848&show_icons=true&theme=github_dark)
+![Tamil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tamil848&show_icons=true&theme=github_dark&cache_seconds=3600)
 
 <!-- Optional: Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamil848&layout=compact&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamil848&layout=compact&theme=github_dark&cache_seconds=3600)
